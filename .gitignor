@@ -5,3 +5,6 @@ __pycache__/
 
 # Ignore PyCharm project files
 .idea/
+
+# Ignore other system files
+.DS_Store
